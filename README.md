@@ -6,10 +6,8 @@ O NPM (Node Package Manager) é uma ferramenta poderosa que vem junto com o Node
 ## Pacote e Package.json
 No NPM, um pacote é uma coleção de código reutilizável que pode ser facilmente instalado e usado em seus projetos. Cada pacote normalmente inclui um conjunto de arquivos, juntamente com um arquivo package.json que contém metadados e configurações importantes para o pacote.
 
-## Entendendo o Package.json e Package.js
+## Entendendo o Package.json
 package.json: Este arquivo é o coração de todo projeto NPM. Ele contém informações essenciais sobre o seu projeto, como nome, versão, dependências, scripts e muito mais. O arquivo package.json ajuda o NPM a entender como lidar com seu projeto e suas dependências.
-
-package.js: Parece que pode haver uma confusão aqui. Não existe um arquivo package.js no NPM. O arquivo correto é package.json.
 
 ## Três Tipos de Módulos
 Ao trabalhar com o NPM, você encontrará três tipos de módulos:
