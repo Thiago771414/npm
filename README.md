@@ -95,4 +95,4 @@ Você pode usar diferentes sintaxes na seção dependencies para especificar int
 ## Conclusão
 O NPM é uma ferramenta essencial para gerenciar projetos JavaScript. Ele permite que você instale, atualize e compartilhe pacotes facilmente. Entender a estrutura do package.json e o versionamento semântico ajudará você a trabalhar de forma eficiente com o NPM e manter as dependências do seu projeto organizadas. Boa codificação!
 
-![Imagem](https://images.contentful.com/hspc7zpa5cvq/7FC6Ptu…15f88437a976ccff2aa633a4c7c3e/NodeJS-Npm-01-1.png)
+
