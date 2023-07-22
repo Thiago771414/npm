@@ -6,7 +6,7 @@ O NPM (Node Package Manager) é uma ferramenta poderosa que vem junto com o Node
 ## Pacote e Package.json
 No NPM, um pacote é uma coleção de código reutilizável que pode ser facilmente instalado e usado em seus projetos. Cada pacote normalmente inclui um conjunto de arquivos, juntamente com um arquivo package.json que contém metadados e configurações importantes para o pacote.
 
-##Entendendo o Package.json e Package.js
+## Entendendo o Package.json e Package.js
 package.json: Este arquivo é o coração de todo projeto NPM. Ele contém informações essenciais sobre o seu projeto, como nome, versão, dependências, scripts e muito mais. O arquivo package.json ajuda o NPM a entender como lidar com seu projeto e suas dependências.
 
 package.js: Parece que pode haver uma confusão aqui. Não existe um arquivo package.js no NPM. O arquivo correto é package.json.
@@ -20,7 +20,7 @@ Módulos Locais: São módulos que você cria dentro do seu projeto. Eles podem 
 
 Módulos de Terceiros: Esses módulos são criados por outros desenvolvedores e estão disponíveis no registro do NPM. Alguns exemplos populares incluem express para criar aplicativos da web e mongoose para trabalhar com bancos de dados MongoDB.
 
-##Contexto Global e Local
+## Contexto Global e Local
 Ao trabalhar com pacotes do NPM, é essencial entender a diferença entre o contexto global e local:
 
 Contexto Global: Refere-se ao sistema de computador como um todo, e os pacotes instalados globalmente podem ser acessados a partir de qualquer projeto. No Windows, os pacotes globais geralmente estão localizados em %app-data%\Roaming\npm\node_modules.
