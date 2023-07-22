@@ -48,16 +48,16 @@ Ao instalar um módulo, você pode usar a opção --save ou --save-dev para adic
 ## Entendendo a Estrutura do Package.json
 O arquivo package.json tem uma estrutura específica que contém informações importantes sobre o seu projeto. Aqui estão alguns dos campos-chave:
 ````json
-name: O nome do seu pacote.
-version: A versão do seu pacote.
-description: Uma breve descrição do seu pacote.
-homepage: A URL do site do seu pacote.
-contributors: Nomes dos colaboradores do pacote.
-dependencies: Uma lista de dependências necessárias para o funcionamento do seu pacote.
-devDependencies: Uma lista de dependências usadas apenas no ambiente de desenvolvimento.
-main: O ponto de entrada do seu pacote.
-scripts: Scripts personalizados que podem ser executados usando npm run.
-keywords: Palavras-chave que descrevem o seu pacote para facilitar a descoberta.
+"name:" //O nome do seu pacote.
+"version:" //A versão do seu pacote.
+"description:" //Uma breve descrição do seu pacote.
+"homepage:" //A URL do site do seu pacote.
+"contributors:" //Nomes dos colaboradores do pacote.
+"dependencies:" //Uma lista de dependências necessárias para o funcionamento do seu pacote.
+"devDependencies:" //Uma lista de dependências usadas apenas no ambiente de desenvolvimento.
+"main:" //O ponto de entrada do seu pacote.
+"scripts:" //Scripts personalizados que podem ser executados usando npm run.
+"keywords:" //Palavras-chave que descrevem o seu pacote para facilitar a descoberta.
 ````
 ## Gitignore
 O arquivo .gitignore é usado para especificar quais arquivos e diretórios devem ser ignorados pelos sistemas de controle de versão, como o Git. Ele ajuda a excluir arquivos desnecessários, como a pasta node_modules e outros artefatos de construção, para que não sejam rastreados no repositório.
