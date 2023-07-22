@@ -64,13 +64,13 @@ O arquivo .gitignore é usado para especificar quais arquivos e diretórios deve
 
 ## Comandos da CLI do NPM
 ````json
-"npm list:" "Lista os pacotes instalados no contexto local."
+"npm list": "Lista os pacotes instalados no contexto local."
 
-"npm list -g:" "Lista os pacotes instalados globalmente."
+"npm list -g": "Lista os pacotes instalados globalmente."
 
-"npm outdated:" "Mostra uma lista de pacotes desatualizados que precisam de atualizações."
+"npm outdated": "Mostra uma lista de pacotes desatualizados que precisam de atualizações."
 
-"npm update:" "Atualiza os pacotes desatualizados para suas versões mais recentes."
+"npm update": "Atualiza os pacotes desatualizados para suas versões mais recentes."
 ````
 ## Versionamento Semântico
 Ao especificar dependências em seu package.json, você pode usar o versionamento semântico para definir as restrições de versão de um pacote. O versionamento semântico consiste em três partes: MAJOR.MINOR.PATCH.
