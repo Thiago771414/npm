@@ -45,7 +45,7 @@ Você também pode instalar uma versão específica de um módulo:
 ````
 Ao instalar um módulo, você pode usar a opção --save ou --save-dev para adicionar o pacote ao seu arquivo package.json como uma dependência ou uma dependência de desenvolvimento, respectivamente.
 
-##Entendendo a Estrutura do Package.json
+## Entendendo a Estrutura do Package.json
 O arquivo package.json tem uma estrutura específica que contém informações importantes sobre o seu projeto. Aqui estão alguns dos campos-chave:
 
 name: O nome do seu pacote.
@@ -59,7 +59,7 @@ main: O ponto de entrada do seu pacote.
 scripts: Scripts personalizados que podem ser executados usando npm run.
 keywords: Palavras-chave que descrevem o seu pacote para facilitar a descoberta.
 
-##Gitignore
+## Gitignore
 O arquivo .gitignore é usado para especificar quais arquivos e diretórios devem ser ignorados pelos sistemas de controle de versão, como o Git. Ele ajuda a excluir arquivos desnecessários, como a pasta node_modules e outros artefatos de construção, para que não sejam rastreados no repositório.
 
 ## Comandos da CLI do NPM
